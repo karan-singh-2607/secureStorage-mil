@@ -1,0 +1,30 @@
+{
+  "name": "securestorage-mil",
+  "version": "1.0.0",
+  "description": "save data to localstorage securely.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karan-singh-2607/secureStorage-mil.git"
+  },
+  "keywords": [
+    "secure",
+    "storage"
+  ],
+  "author": "karan singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karan-singh-2607/secureStorage-mil/issues"
+  },
+  "homepage": "https://github.com/karan-singh-2607/secureStorage-mil#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "crypto-js": "^4.2.0"
+  }
+}
